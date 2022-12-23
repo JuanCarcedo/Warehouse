@@ -15,7 +15,7 @@ they’ve installed it. Include screenshots of your project in action.
 - Check requirements.txt for Python and used packages version.  
   + If needed, update your versions in the virtual env to run this project.
 - Create a branch of this repository in your local machine.
-- Run "inventory.py".
+- Run "main.py".
  
 ## Use
 Note that every folder will.  
