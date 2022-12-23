@@ -1,7 +1,7 @@
 # finalCapstone
 HyperionDev Capstone Project -- Warehouse  
 This is a learning project with OOP and file handling.  
-Note the data is stored in txt, if you are a learner, you can create a fork of the repository and include data handling with SQLite or other database.  
+Note the data is stored in txt, if you are a learner, you can create a fork of the repository and include data handling with SQLite or another database.  
 Warehouse options:
 * Refresh data from file.
 * Add new data.
@@ -22,7 +22,7 @@ Warehouse options:
 - Play with the code.
  
 ## Expected output
-The interaction with the project will be via Console (I recommend granting space to read correctly the outputs).  
+The interaction with the project will be via Console (I recommend granting space to correctly read the outputs).  
 After seeing the greeting from the system, input the options required and then try and test all possibilities.  
 Greeting:  
 ![Initial](/images/01_greetings.PNG)
