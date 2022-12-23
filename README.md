@@ -1,22 +1,38 @@
 # finalCapstone
-HyperionDev Capstone Project -- Warehouse
+HyperionDev Capstone Project -- Warehouse  
+This is a learning project with OOP and file handling.  
+Note the data is stored in txt, if you are a learner, you can create a fork of the repository and include data handling with SQLite or other database.  
+Warehouse options:
+* Refresh data from file.
+* Add new data.
+* Search data.
+* Update stock of lowest item.
+* Calculate total inventory value.
+* Search for item with highest or lowest stock.
 
-
-I am using PyCharm with GitHub to update these files.  
-
-A table of contents to allow other people to quickly navigate
-especially long or detailed READMEs.
-
-○ A usage section that instructs others on how to use your project after
-they’ve installed it. Include screenshots of your project in action.
-
-
-## How to install
-- Check requirements.txt for Python and used packages version.  
-  + If needed, update your versions in the virtual env to run this project.
-- Create a branch of this repository in your local machine.
+## Index
+1. Introduction (above).
+2. How to install and execute.
+3. Expected output
+  
+## How to install and execute
+- Check requirements.txt to understand the version of Python and the extra packages needed to run this program.  
+- Create a fork of this repository in your local machine.
 - Run "main.py".
+- Play with the code.
  
-## Use
-Note that every folder will.  
-<em>List of projects:</em>
+## Expected output
+The interaction with the project will be via Console (I recommend granting space to read correctly the outputs).  
+After seeing the greeting from the system, input the options required and then try and test all possibilities.  
+Greeting:  
+![Initial](/images/01_greetings.PNG)
+  
+See all shoes:  
+![All shoes](/images/02_all_shoes.PNG)
+  
+New shoe created:  
+![New shoe](/images/03_new_shoe.PNG)
+  
+Highest stock item:  
+![High stock](/images/04_highest_stock.PNG)
+
