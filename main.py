@@ -1,9 +1,8 @@
 """
-    Student: Juan Carcedo Aldecoa (JC22110005078)
+    By: Juan Carcedo Aldecoa
     Date: 17-18/12/2022
     Note:
         This is a project to re-create a warehouse.
-        Data handling can be simplified using DataFrames (Pandas).
 """
 # IMPORTS =====
 from tabulate import tabulate  # Pretty tables
