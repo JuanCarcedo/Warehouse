@@ -1,8 +1,10 @@
 """
-    By: Juan Carcedo Aldecoa
     Date: 17-18/12/2022
+    :copyright: (c) 2022 Juan Carcedo, All rights reserved
+    :licence: MIT, see LICENSE.txt for further details.
     Note:
         This is a project to re-create a warehouse.
+        Data handling can be simplified using DataFrames (Pandas) or SQLite.
 """
 # IMPORTS =====
 from tabulate import tabulate  # Pretty tables
