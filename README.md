@@ -1,5 +1,5 @@
 # Warehouse
-HyperionDev Capstone Project -- Warehouse  
+
 This is a learning project with OOP and file handling.  
 Note the data is stored in txt, if you are a learner, you can create a fork of the repository and include data handling with SQLite or another database.  
 Warehouse options:
